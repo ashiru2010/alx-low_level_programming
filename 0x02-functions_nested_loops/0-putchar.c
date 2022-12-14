@@ -3,7 +3,7 @@
  * main - print _putchar
  * written by balili
  * Return: 0
-*/
+ */
 
 int main(void)
 {
