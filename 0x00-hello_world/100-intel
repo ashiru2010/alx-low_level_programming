@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -S -ma s=intel $CFILE
+gcc -S -assm=intel $CFILE
