@@ -2,6 +2,7 @@
 /**
  * _puts - prints string
  * @str: pointer to the string to print
+ * @i: integer
  * Return: void
  */
 
@@ -11,8 +12,8 @@ void _puts(char *str)
 
 	while (str[i])
 	{
-		_putchar(str[i]);
+		_putchar (str[i]);
 		i++;
 	}
-	_putchar('\n');
+	_putchar ('\n');
 }
