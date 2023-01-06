@@ -7,7 +7,7 @@
  * Return: 0
  */
 
-int main(int argc, char *argv[])
+int main(int args, char *argv[])
 {
 	int c, coins = 0;
 
