@@ -25,7 +25,7 @@ int main(int argc, char *argv[])
 	}
 
 	s = argv[2][0];
-	if (s != '+' && s != '-' && s != '/' && s != '*' && s != '%')
+	if (s != "+" && s != "-" && s != "/" && s != "*" && s != "%")
 	{
 		printf("Error\n");
 		exit(99);
