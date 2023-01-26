@@ -1,4 +1,5 @@
 #include "lists.h"
+#include <stdio.h>
 /**
  * print_list - prints all the eleents of a list_t list
  * @h: singly linked list
